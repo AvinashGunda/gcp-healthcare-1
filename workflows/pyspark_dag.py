@@ -12,7 +12,7 @@ from airflow.providers.google.cloud.operators.dataproc import (
 # define the variables
 PROJECT_ID = "avigunda1234"
 REGION = "us-central1"
-CLUSTER_NAME = "my-demo-cluster2"
+CLUSTER_NAME = "my-demo-cluster2" 
 COMPOSER_BUCKET = "us-central1-demo-instance-fcb27c4d-bucket" 
 
 GCS_JOB_FILE_1 = f"gs://{COMPOSER_BUCKET}/data/INGESTION/hospitalA_mysqlToLanding.py"

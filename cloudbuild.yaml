@@ -17,6 +17,6 @@ options:
   logging: CLOUD_LOGGING_ONLY
 
 substitutions:
-  _DAGS_DIRECTORY: "workflows/"
+  _DAGS_DIRECTORY: "dags/"
   _DAGS_BUCKET: "us-central1-demo-instance-fcb27c4d-bucket" # Replace with your Composer bucket
   _DATA_DIRECTORY: "data/"
