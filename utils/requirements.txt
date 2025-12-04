@@ -3,4 +3,4 @@ google-cloud-bigquery  # For BigQuery operations
 google-cloud-dataproc  # For Dataproc cluster and job management
 google-cloud-pubsub  # Optional: If using Pub/Sub triggers
 google-cloud-dataflow  # If you are using Dataflow with Python SDK
-apache-airflow-providers-google
+#apache-airflow-providers-google
